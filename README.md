@@ -3,7 +3,7 @@
 A Python script that extracts and analyzes commit messages from a GitHub repository using the GitHub REST API.
 
 ## Overview
-This script fetches the most recent commits from a specified public repository (currently configured for `AutoGPT`) and calculates the proportion of commits dedicated to bug fixing. It filters the JSON response data and counts commits containing specific keywords (`fix`, `bug`, `error`).
+This script fetches the most recent commits from a specified public repository (currently only configured for `AutoGPT`) and calculates the proportion of commits dedicated to bug fixing, based on specific keywords (`fix`, `bug`, `error`). It filters the JSON response data and counts commits containing the specific keywords mentioned above.
 
 ## Prerequisites
 * Python 3.x
