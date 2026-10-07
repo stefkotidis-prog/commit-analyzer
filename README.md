@@ -1,4 +1,4 @@
-# GitHub Commit Analyzer (Update on the way...)
+# GitHub Commit Analyzer 
 
 A Python script that extracts and analyzes commit messages from a GitHub repository using the GitHub REST API.
 
